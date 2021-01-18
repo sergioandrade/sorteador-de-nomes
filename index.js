@@ -33,9 +33,9 @@ setNamesToList();
 
 function sortear() {
   const people = getPeople().filter((i) => i);
-  const sorted = Math.floor(Math.random() * (people.length - 1));
+  const sorted = Math.floor(Math.random() * (people.length));
   result.innerHTML = "";
-  const regex = /([s][e|é][ergio])\w+/gi;
+  const regex = /s[eé]rgio/gi;
   result.insertAdjacentHTML(
     "beforeend",
     `<div class="sorted">${
