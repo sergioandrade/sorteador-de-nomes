@@ -2,7 +2,7 @@
 name: 😎 Task Squad Shopping
 about: Template para tasks de rotina
 title: "[DATE]: [FEATURE NAME]"
-labels: shopping
+labels: shopping, bug
 assignees: ''
 ---
 
