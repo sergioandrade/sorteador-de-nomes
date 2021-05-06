@@ -1,9 +1,8 @@
 ---
-name: 😎 Task Squad Shopping"
-about: "If something isn't working as expected \U0001F914."
-title: ''
-labels: 'bug, Status: Pending Triage, Type: Bug'
-projectId: 1
+name: 😎 Task Squad Shopping
+about: Template para tasks de rotina
+title: "[DATE]: [FEATURE NAME]"
+labels: shopping
 assignees: ''
 ---
 
