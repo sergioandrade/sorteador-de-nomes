@@ -3,7 +3,7 @@ name: 😎 Task Squad Shopping"
 about: "If something isn't working as expected \U0001F914."
 title: ''
 labels: 'bug, Status: Pending Triage, Type: Bug'
-project: 94
+project: 1
 assignees: ''
 ---
 
