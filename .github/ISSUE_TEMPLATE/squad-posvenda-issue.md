@@ -1,3 +1,12 @@
+---
+name: 🛒 Issue Squad Pós-venda
+about: Use este modelo para issues do Squad Pós-venda.
+title: ""
+labels: Posvenda
+assignees:
+projects: ArezzoCo/110
+---
+
 <!--
 !! NÃO ESQUECER !!
 
