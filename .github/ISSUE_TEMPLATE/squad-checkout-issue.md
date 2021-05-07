@@ -1,5 +1,5 @@
 ---
-name: 🛒 Issue Squad Checkout
+name: 💰 Issue Squad Checkout
 about: Use este modelo para issues do Checkout.
 title: ""
 labels: .Checkout
