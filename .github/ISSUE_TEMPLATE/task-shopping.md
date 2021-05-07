@@ -1,14 +1,13 @@
 ---
-name: Task Squad Shopping
+name: 🎸 Task Squad Shopping
 about: Use este modelo para tasks comuns do Squad Shopping.
 title: ""
-labels: Shopping, bug
+labels: Shopping
 assignees:
-projects: sergioandrade/1
+projects: ArezzoCo/94
 ---
 
 **USER STORY**
-
 
 ----
 
